@@ -320,8 +320,67 @@ http://localhost:8501
 * Inventory replenishment recommendations
 * Historical analytics dashboards
 
----
+--------------------------------------------------------------------------
 
-## Author
+### Setup Instructions
 
-Developed as part of an Eyewear Order Management and SLA Prediction assignment demonstrating full-stack application development, database management, and machine learning integration.
+
+```bash
+pip install -r requirements.txt
+```
+
+### Backend
+
+Terminal 1:
+
+```bash
+cd backend
+uvicorn main:app --reload
+```
+
+Backend URL:
+
+```text
+http://127.0.0.1:8000
+```
+
+API Documentation:
+
+```text
+http://127.0.0.1:8000/docs
+```
+
+### Frontend
+
+Terminal 2:
+
+```bash
+cd frontend
+streamlit run app.py
+```
+
+Dashboard URL:
+
+```text
+http://localhost:8501
+```
+
+### Using the Application
+
+1. Open the Streamlit dashboard.
+2. Navigate between:
+   * Orders
+   * Inventory
+   * Alerts
+   * Inventory Check
+3. Update order statuses through the Orders tab.
+4. View inventory availability.
+5. Monitor SLA breach risks through the Alerts tab.
+
+### Notes
+
+* The project uses a local SQLite database.
+* Sample operational data has been pre-generated and seeded.
+* The machine learning model and encoders are already trained and included in the repository.
+* No additional model training is required to run the application.
+
