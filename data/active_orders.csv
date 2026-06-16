@@ -1,0 +1,101 @@
+order_id,store_location,lens_type,coating,prescription_power,inventory_available,qc_failed,current_stage,time_in_stage,sla_hours
+8daf44ac,Northside,Single Vision,Blue Light,5.7,False,False,Shipped,14,24
+e2bd1d3e,Northside,Single Vision,Blue Light,-4.86,True,False,QC,18,24
+524ecb57,East Mall,Single Vision,Blue Light,-0.91,True,False,Lab Processing,10,24
+17c90ef2,East Mall,Single Vision,Transitions,0.33,True,False,QC,7,24
+348b069f,Northside,Single Vision,Anti-Reflective,-5.78,True,True,QC,20,24
+1edb5a48,East Mall,Progressive,None,-1.75,True,False,Lab Processing,8,72
+c6b151a9,East Mall,Single Vision,Blue Light,-3.67,True,False,Lab Processing,5,24
+69e51278,Downtown,Progressive,None,-1.46,False,True,Lab Processing,8,72
+36650003,Northside,Progressive,Anti-Reflective,2.69,True,False,QC,17,72
+19aebf87,Online Store,Bifocal,Transitions,5.16,True,False,Lens Allocation,15,48
+e99b66cc,Northside,Single Vision,Anti-Reflective,-1.63,True,False,QC,16,24
+0203cc62,Northside,Progressive,None,-3.19,False,False,Shipped,10,72
+61080c09,Downtown,Single Vision,Anti-Reflective,0.22,False,False,Shipped,8,24
+9914b0b2,Online Store,Progressive,None,-3.78,True,False,Packaging,17,72
+aaa42dbd,Online Store,Bifocal,None,-3.32,False,False,Shipped,6,48
+f81ed768,Downtown,Progressive,None,-5.07,True,False,QC,17,72
+ba79e4b3,East Mall,Bifocal,Anti-Reflective,-3.14,True,False,Lab Processing,7,48
+6bdaa1ee,Online Store,Single Vision,Blue Light,4.09,True,False,Prescription Verification,4,24
+d8443c3c,Downtown,Single Vision,Anti-Reflective,-5.02,True,False,Prescription Verification,15,24
+8a2a9b34,Online Store,Single Vision,Blue Light,5.54,False,True,Lens Allocation,4,24
+781af47e,Downtown,Single Vision,Blue Light,-4.61,True,False,Prescription Verification,3,24
+2739794a,Online Store,Single Vision,Transitions,-5.91,True,False,QC,14,24
+68368af5,Northside,Progressive,Blue Light,3.0,True,True,Prescription Verification,20,72
+51a78259,Northside,Single Vision,Transitions,-2.89,False,False,Lab Processing,16,24
+15c80d02,Online Store,Progressive,Blue Light,-5.13,True,True,QC,21,72
+30931e46,Online Store,Progressive,None,-0.67,True,False,Shipped,10,72
+e3a31b37,Northside,Single Vision,Blue Light,-1.91,True,False,Packaging,3,24
+bfc88bc6,Online Store,Bifocal,None,4.33,True,False,Packaging,24,48
+68b69d3a,Northside,Bifocal,Anti-Reflective,4.38,True,False,Prescription Verification,15,48
+a5098218,Northside,Single Vision,Transitions,-5.12,True,False,QC,12,24
+b33213cc,Downtown,Progressive,None,0.92,True,False,Lens Allocation,22,72
+ec661daf,Northside,Single Vision,None,-5.39,False,False,Lab Processing,19,24
+8a25b29a,Northside,Progressive,Transitions,-4.32,True,False,Packaging,21,72
+057468c2,Online Store,Progressive,Anti-Reflective,-3.88,True,False,QC,24,72
+0b030967,Downtown,Progressive,Anti-Reflective,-1.29,True,False,Lab Processing,4,72
+1e7de3aa,Downtown,Progressive,Blue Light,1.84,True,False,Shipped,7,72
+9ad733c6,East Mall,Progressive,Transitions,-5.66,True,False,QC,4,72
+1807f4e9,East Mall,Single Vision,Blue Light,-4.7,True,False,Lab Processing,12,24
+a749e858,Online Store,Progressive,Transitions,2.08,True,False,Prescription Verification,12,72
+5110a076,Online Store,Bifocal,Transitions,-5.73,True,False,Packaging,1,48
+84e738dd,Online Store,Bifocal,Blue Light,-1.86,True,False,Prescription Verification,5,48
+67b66db3,East Mall,Single Vision,Anti-Reflective,-1.59,True,False,Shipped,17,24
+5ec89f4d,Northside,Bifocal,Blue Light,4.57,False,False,Prescription Verification,18,48
+d09d2f53,Northside,Single Vision,Transitions,-1.47,True,False,Prescription Verification,14,24
+ac91e707,Northside,Single Vision,Blue Light,-3.64,True,False,Shipped,15,24
+724f84d8,Online Store,Single Vision,Transitions,2.87,False,False,Prescription Verification,1,24
+31a6add1,East Mall,Progressive,None,1.02,True,False,QC,13,72
+f1f115b1,Northside,Progressive,Blue Light,-3.75,False,False,Lab Processing,16,72
+bc3a326c,Online Store,Single Vision,None,-1.26,True,True,Lens Allocation,6,24
+d9f193fe,East Mall,Progressive,Anti-Reflective,-2.13,True,False,QC,16,72
+d0ad4d87,Northside,Single Vision,Blue Light,5.37,False,False,Shipped,9,24
+0ca534d1,Online Store,Progressive,Anti-Reflective,-5.49,True,False,Shipped,21,72
+1814dcea,Northside,Bifocal,Blue Light,-5.01,True,False,Shipped,2,48
+7a3ef7d1,Northside,Bifocal,Transitions,3.55,True,False,Shipped,15,48
+b94e18dd,East Mall,Bifocal,None,-1.25,True,False,Lab Processing,4,48
+798bbf26,Northside,Bifocal,Transitions,4.04,True,True,Shipped,9,48
+1e3ed0cf,Downtown,Single Vision,None,2.01,True,True,QC,19,24
+256989b3,East Mall,Single Vision,None,-3.4,True,False,Prescription Verification,13,24
+52b84a35,East Mall,Progressive,Blue Light,-1.21,True,False,Lens Allocation,6,72
+e62e6525,Downtown,Progressive,Blue Light,3.72,True,True,Lens Allocation,11,72
+4530b91c,East Mall,Progressive,None,5.2,True,False,Lab Processing,18,72
+d6440fa6,Online Store,Single Vision,Transitions,1.81,True,False,Lab Processing,3,24
+43749818,East Mall,Progressive,Anti-Reflective,0.66,True,False,QC,21,72
+5bcb4f5b,Online Store,Bifocal,Blue Light,2.24,False,False,Prescription Verification,18,48
+0746691a,East Mall,Bifocal,Anti-Reflective,-2.13,True,False,Lab Processing,24,48
+71a1d306,Northside,Single Vision,None,1.1,True,False,Packaging,12,24
+c23d9056,Online Store,Progressive,Anti-Reflective,0.44,True,False,Lens Allocation,18,72
+c01a161a,East Mall,Progressive,Anti-Reflective,1.46,True,False,QC,1,72
+a8e4aae2,East Mall,Bifocal,Transitions,-3.96,True,False,QC,21,48
+c2f97571,Online Store,Bifocal,Transitions,2.03,True,True,Shipped,1,48
+915f234c,East Mall,Bifocal,Anti-Reflective,-5.59,False,False,Shipped,14,48
+c806052f,Online Store,Single Vision,Transitions,3.56,True,False,QC,11,24
+5ecb5ea2,Online Store,Progressive,None,1.17,True,False,QC,10,72
+94236d7b,Downtown,Single Vision,Blue Light,-4.42,False,True,Prescription Verification,21,24
+fa23057f,Downtown,Bifocal,Anti-Reflective,5.51,True,False,QC,13,48
+2da4cdbb,East Mall,Single Vision,None,3.9,True,False,Shipped,4,24
+7a937900,Online Store,Progressive,Transitions,1.04,True,False,Lab Processing,23,72
+5c251af6,East Mall,Single Vision,Anti-Reflective,-0.25,True,False,Prescription Verification,1,24
+29a10a00,Online Store,Progressive,Blue Light,1.14,True,False,Prescription Verification,3,72
+d2f41b5b,Online Store,Bifocal,Transitions,2.49,True,False,Lab Processing,8,48
+9f6770cd,Northside,Bifocal,Transitions,-4.28,False,False,Shipped,21,48
+e55ec8d7,Northside,Bifocal,Anti-Reflective,1.21,True,False,Lens Allocation,15,48
+38e0cbab,Downtown,Single Vision,None,-5.78,True,False,Shipped,13,24
+8a415150,Downtown,Single Vision,Transitions,0.3,True,True,Lab Processing,5,24
+06242efe,Online Store,Bifocal,Transitions,0.31,False,False,Lab Processing,1,48
+485df5dc,East Mall,Bifocal,Transitions,-2.92,True,False,QC,3,48
+a72e2561,Online Store,Progressive,Blue Light,-2.75,True,False,Lens Allocation,4,72
+332ebed3,Northside,Progressive,Blue Light,-4.57,True,False,Prescription Verification,1,72
+cde2a7d1,Downtown,Progressive,None,-5.18,True,True,Shipped,9,72
+b23f40fb,Online Store,Bifocal,Transitions,-3.39,True,False,Prescription Verification,11,48
+470713e2,Northside,Progressive,Transitions,1.64,True,False,Packaging,22,72
+a9528648,East Mall,Single Vision,Transitions,-5.61,True,False,Shipped,4,24
+5febb37c,Northside,Progressive,Blue Light,-3.28,True,False,Lab Processing,15,72
+1052362e,East Mall,Progressive,Anti-Reflective,-4.54,True,False,Shipped,9,72
+430a01ec,Online Store,Progressive,None,-1.97,False,False,Packaging,17,72
+d4f7c0a6,Online Store,Bifocal,Anti-Reflective,-5.22,True,False,Lab Processing,19,48
+88c899d9,Northside,Single Vision,Transitions,5.36,True,False,QC,17,24
+80efa787,East Mall,Single Vision,Anti-Reflective,-1.84,True,False,Lab Processing,4,24
+879ecee0,Downtown,Single Vision,Anti-Reflective,4.58,True,False,Lens Allocation,8,24
+a9624db8,Northside,Single Vision,None,-3.08,False,False,QC,7,24

@@ -1,0 +1,12 @@
+lens_type,prescription_power,coating,stock_count
+Single Vision,-2.0,None,50
+Single Vision,-1.5,Blue Light,35
+Single Vision,0.0,Anti-Reflective,40
+Single Vision,1.0,None,25
+Bifocal,-2.0,None,20
+Bifocal,1.5,Blue Light,15
+Bifocal,2.0,Anti-Reflective,18
+Progressive,-3.0,Transitions,8
+Progressive,-2.0,Blue Light,12
+Progressive,2.0,Transitions,5
+Progressive,3.0,Anti-Reflective,7
